@@ -42,6 +42,7 @@ body {
     -ms-flex-direction: column;
     flex-direction: column;
     min-width: 0;
+    min-height: 300px;
     word-wrap: break-word;
     background-color: rgba(var(--card-bg), .5);
     background-clip: border-box;
